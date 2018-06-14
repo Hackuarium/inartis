@@ -4,7 +4,7 @@ box(
     height = 100,
     depth = 40,
     thickness = 4,
-    finger_width = 20, // default is thickness * 2
+    finger_width = 20,
     assemble = true,
     labels = true,
     open = false,

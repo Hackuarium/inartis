@@ -28,8 +28,12 @@ box(options);
  * hole_margin - Distance from top edge to handle hole
  * kerf (diameter) - Cutting kerf (rendering will be offset by half this)
  * dividers (array with two elements) - How many dividers to insert in X and Y directions
- * holes (array) - Where to place rivet holes
- * hole_dia (length) - Diameter of rivet holes
+ * holes_front (array) - Where to place holes on front
+ * hole_front_dia (length) - Diameter of holes on the front
+ * holes_back (array) - Where to place holes on the back
+ * hole_back_dia (length) - Diameter of holes on the back
+ * holes_left (array) - Where to place holes on the left side
+ * hole_left_dia (length) - Diameter of holes on the left
  * only_front_holes (boolean) - Rivet only top or top / bottom
  * ears (boolean) - If true, 'ears' for hinges are generated
 

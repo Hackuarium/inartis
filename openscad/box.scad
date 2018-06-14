@@ -100,7 +100,7 @@ module box(
       }
       if (len(holes_back) > 0 )
         for (i = [ 0 : len(holes_back)-1 ])
-          hole([w-holes_back[i][0], holes_back[i][1]], hole_back_dia);
+          hole(holes_back[i], hole_back_dia);
       if (ears_radius > 0)
         ears_inner(false);
     }
