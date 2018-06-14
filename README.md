@@ -4,7 +4,7 @@ Welcome to this small git project for our 3h workshop.
 
 Hackuarium is an open laboratory for DIY biology (and beyond).
 
-You may visit our website at [http://www.hackuarium.ch].
+You may visit our website at http://www.hackuarium.ch.
 
 Many projects are done at hackuarium and in we are mainly involved in 2 projects
 * [Simple-spectro](https://hackuarium.github.io/simple-spectro): A DIY open-source spectrophotometer
