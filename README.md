@@ -17,5 +17,5 @@ Many activities are being developed at hackuarium. We ([Océane](https://github.
 
 * Open-source software for 3D modelling: 
 [Download OpenSCAD](http://www.openscad.org/downloads.html)
-* [PDF of the presentation]()
+* [PDF of the presentation](presentation.pdf)
 * [Generate a QRCode](qrcode)
