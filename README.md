@@ -6,7 +6,7 @@ Hackuarium is an open laboratory for DIY biology (and beyond).
 
 You may visit our website at http://www.hackuarium.ch.
 
-Many projects are done at hackuarium. We ([Océane](https://github.com/opatiny), [Florian](https://github.com/fpatiny) and [Luc](https://github.com/lpatiny)) are mainly involved in 2 projects
+Many activities are being developed at hackuarium. We ([Océane](https://github.com/opatiny), [Florian](https://github.com/fpatiny) and [Luc](https://github.com/lpatiny)) are mainly involved in 2 projects
 * [Simple-spectro](https://hackuarium.github.io/simple-spectro): A DIY open-source spectrophotometer
 * [Beemos](https://hackuarium.github.io/beemos): A DIY open-source beehive monitoring system
 
